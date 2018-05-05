@@ -1,0 +1,13 @@
+c:\users\user\source\repos\File_System\File_System\bin\Debug\File_System.exe.config
+c:\users\user\source\repos\File_System\File_System\bin\Debug\File_System.exe
+c:\users\user\source\repos\File_System\File_System\bin\Debug\File_System.pdb
+c:\users\user\source\repos\File_System\File_System\obj\Debug\File_System.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\File_System\File_System\obj\Debug\File_System.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\File_System\File_System\obj\Debug\File_System.exe
+c:\users\user\source\repos\File_System\File_System\obj\Debug\File_System.pdb
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System\bin\Debug\File_System.exe.config
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System\bin\Debug\File_System.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System\bin\Debug\File_System.pdb
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System\obj\Debug\File_System.csprojResolveAssemblyReference.cache
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System\obj\Debug\File_System.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System\obj\Debug\File_System.pdb
