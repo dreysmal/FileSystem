@@ -1,0 +1,13 @@
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System_2\bin\Debug\File_System_2.exe.config
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System_2\bin\Debug\File_System_2.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System_2\bin\Debug\File_System_2.pdb
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System_2\obj\Debug\File_System_2.csprojResolveAssemblyReference.cache
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System_2\obj\Debug\File_System_2.exe
+C:\Users\smal\Documents\Visual Studio 2017\Projects\File_System\File_System_2\obj\Debug\File_System_2.pdb
+C:\Users\User\source\repos\File_System\File_System_2\bin\Debug\File_System_2.exe.config
+C:\Users\User\source\repos\File_System\File_System_2\bin\Debug\File_System_2.exe
+C:\Users\User\source\repos\File_System\File_System_2\bin\Debug\File_System_2.pdb
+C:\Users\User\source\repos\File_System\File_System_2\obj\Debug\File_System_2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\File_System\File_System_2\obj\Debug\File_System_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\File_System\File_System_2\obj\Debug\File_System_2.exe
+C:\Users\User\source\repos\File_System\File_System_2\obj\Debug\File_System_2.pdb
